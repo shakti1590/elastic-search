@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://shaktisingh:bYgUgDhFYsDRzgR7@elastic.donhz5a.mongodb.net/?retryWrites=true&w=majority&appName=elastic
+      database: elastic_Search
+  main:
+    allow-bean-definition-overriding: true
